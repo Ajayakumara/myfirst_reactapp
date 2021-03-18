@@ -8,6 +8,7 @@ function App() {
        
        <h1>This is header</h1>
        <p>This is paragraph</p>
+       <p>This is second paragraph</p>
          {/* <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
